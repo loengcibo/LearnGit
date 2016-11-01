@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Sz_xiyi</string>
+    
+    
+    <!-- 友盟推送AppKey -->
+    <string name="UMENG_PUSH_APPKEY">5816b103f29d9851cb000018</string>
+    <!-- 友盟推送Message Secret -->
+    <string name="UMENG_PUSH_MESSAGE_SECRET">39b4c81a107878587426e416f6b001d3</string>
+    <!-- 友盟推送 App Master Secret -->
+    <string name="UMENG_PUSH_MASTER_SECRET">udyngpwaohsvn3iixncri1vdvsjexqst</string>
+    
+    <!-- 比目后台  APPLICATION ID -->
+     <string name="BMOB_APPLICATION_ID">e700cb367e22a4328f737f95aa83cd61</string>
+    
+
+</resources>
